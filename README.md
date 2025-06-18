@@ -1,10 +1,10 @@
-# 🚀 Implicit Intent Android App
+#  Implicit Intent Android App
 
 A simple and beginner-friendly Android application built using **Kotlin** that demonstrates the use of **implicit intents** — enabling your app to launch other apps like browser, dialer, maps, etc., based on user actions.
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
 - [ About](#-about)
 - [ Features](#-features)
@@ -16,13 +16,13 @@ A simple and beginner-friendly Android application built using **Kotlin** that d
 
 ---
 
-## 📖 About
+##  About
 
 This project is a simple demonstration of **implicit intents** in Android. It shows how to interact with system apps like the browser, phone, and maps using minimal Kotlin code.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔗 Launch web browser, dialer, or map apps using intents
 - 💡 Clean and understandable Kotlin code for beginners
@@ -32,7 +32,7 @@ This project is a simple demonstration of **implicit intents** in Android. It sh
 
 ---
 
-## ⚙️ Project Structure
+##  Project Structure
 
 ```
 .
@@ -54,16 +54,15 @@ This project is a simple demonstration of **implicit intents** in Android. It sh
 
 ---
 
-## 🚀 Getting Started
 
-### 📋 Prerequisites
+###  Prerequisites
 
 - [Android Studio](https://developer.android.com/studio) (latest version recommended)
 - Android SDK 33+
 - Kotlin 1.8+
 - JDK 11 or newer
 
-### 📦 Clone the Project
+###  Clone the Project
 
 ```bash
 git clone https://github.com/rifsana/CISF.git
@@ -72,7 +71,7 @@ cd CISF
 
 ---
 
-## 🛠️ Build & Run
+##  Build & Run
 
 1. Open the project in Android Studio.
 2. Let Gradle sync all dependencies.
@@ -81,7 +80,7 @@ cd CISF
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Kotlin**
 - **AndroidX**
@@ -89,7 +88,6 @@ cd CISF
 - **Jetpack Components**
 - **Implicit Intents**
 
----
 
 ## 📄 License
 
