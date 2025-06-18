@@ -4,18 +4,6 @@ A simple and beginner-friendly Android application built using **Kotlin** that d
 
 ---
 
-##  Table of Contents
-
-- [ About](#-about)
-- [ Features](#-features)
-- [ Project Structure](#️-project-structure)
-- [ Getting Started](#-getting-started)
-- [ Build & Run](#️-build--run)
-- [ Technologies Used](#-technologies-used)
-- [ License](#-license)
-
----
-
 ##  About
 
 This project is a simple demonstration of **implicit intents** in Android. It shows how to interact with system apps like the browser, phone, and maps using minimal Kotlin code.
@@ -88,10 +76,6 @@ cd CISF
 - **Jetpack Components**
 - **Implicit Intents**
 
-
-## 📄 License
-
-This project is open-source and created for educational purposes. You are free to use, modify, and distribute it without restrictions.
 
 
 
